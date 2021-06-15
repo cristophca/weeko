@@ -1,0 +1,8 @@
+.venv/
+db.sqlite3
+__pycache__/
+.vscode/
+crea.py 
+lee.py 
+parametros.py 
+prueba.py 
